@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/a21071/silver-journey/issues"
   },
-  "homepage": "https://github.com/a21071/silver-journey#readme"
+  "homepage": "https://github.com/a21071/silver-journey#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
 }
